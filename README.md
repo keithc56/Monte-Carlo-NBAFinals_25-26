@@ -80,6 +80,13 @@ than predicted. This supports the known limitation around injury and
 foul trouble adjustments.
 
 
+## Skills Demonstrated
+- Monte Carlo simulation design
+- Strength-of-schedule adjustment methodology
+- Statistical variance modeling (NumPy)
+- Data visualization (Matplotlib scatterplot)
+- Analytical backtracking against real outcomes
+
 ## Personal Note
 
 I hope my Monte Carlo simulation proves accurate — however, I also 
