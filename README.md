@@ -79,6 +79,34 @@ could not account for and likely contributed to the margin being wider
 than predicted. This supports the known limitation around injury and 
 foul trouble adjustments.
 
+### Game 2 — Knicks 105, Spurs 104
+**Series: Knicks lead 2-0**
+
+Game 2 is the strongest validation of the model so far. A 1 point 
+margin is nearly identical to the predicted +2.4, confirming that 
+the simulation's core methodology is sound. The game total of 209 
+also trended closer to the predicted 217.9 than Game 1.
+
+**Knicks standouts:** Karl-Anthony Towns posted 21 points and 13 
+rebounds. Mikal Bridges and Jalen Brunson each scored 20, though 
+Brunson shot 7-25 from the field. Landry Shamet came off the bench 
+with 13 points on 5-12 shooting at +9.
+
+**Spurs standouts:** Victor Wembanyama was dominant with 29 points, 
+9 rebounds, 2 steals, and 4 blocks on 11-21 shooting, staying out 
+of foul trouble this time, However he committed key errors at the 
+end of the game turning the ball over while the game was tied with 
+9 seconds left and committing a foul on Jalen Brunson.
+De'Aaron Fox bounced back with 20 points 
+on 8-12 shooting. Dylan Harper continued his strong series with 15 
+points and a +12 rating off the bench.
+
+**Key observation:** Game 2 was played in San Antonio with no home 
+court adjustment in the model, yet the Knicks still won by 1.
+Wembanyama playing a full 40 minutes without foul 
+trouble and the Spurs still losing by 1 on their home floor is a 
+notable data point — the model's predicted margin held almost exactly.
+
 
 ## Skills Demonstrated
 - Monte Carlo simulation design
