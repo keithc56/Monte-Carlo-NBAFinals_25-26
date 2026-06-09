@@ -107,6 +107,35 @@ Wembanyama playing a full 40 minutes without foul
 trouble and the Spurs still losing by 1 on their home floor is a 
 notable data point — the model's predicted margin held almost exactly.
 
+### Game 3 — Spurs 115, Knicks 111
+**Series: Knicks lead 2-1**
+
+The first Knicks loss of the series and the first result that fell 
+on the Spurs side of the simulation. The actual total of 226 came 
+in over the predicted 217.9, the first over of the series. Notably 
+this is the first game played at Madison Square Garden, a home court 
+variable the model does not account for — yet the Spurs won on the 
+road, which is a meaningful data point.
+
+**Spurs standouts:** Victor Wembanyama was exceptional with 32 points, 
+8 rebounds, 6 assists, 2 steals, and 3 blocks on 11-18 shooting. 
+Stephon Castle added 23 points on 8-14 shooting. Devin Vassell 
+contributed 11 points shooting a near perfect 3-4 from three. Julian 
+Champagnie added 12 off the bench.
+
+**Knicks standouts:** OG Anunoby led New York with 28 points on 9-13 
+shooting. Jalen Brunson scored 32 but on an inefficient 11-25 from 
+the field with 5 turnovers. Josh Hart added 16 points and 9 rebounds
+which is a stark contrast to his game 2 statline of 0 points and 
+6 rebounds.
+
+**Key observation:** Wembanyama posted his best game of the series 
+with a full stat line — 32 points, 8 rebounds, 6 assists, and 3 
+blocks. When he plays at this level without foul trouble the model's 
+Knicks-favored prediction is clearly challenged. Landry Shamet's -20 
+in 23 minutes was a significant liability for New York. The series 
+competitiveness through 3 games continues to support the original 
+86.9% projection for a 5+ game series.
 
 ## Skills Demonstrated
 - Monte Carlo simulation design
